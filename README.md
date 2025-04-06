@@ -1,6 +1,6 @@
 # Suika3D
 
-Suika3D is a small project developed with Unity that aims to recreate a 3D experience inspired by the Suika Game.
+Suika3D is a small project developed with Unity that aims to recreate a 3D experience inspired by the Suika Game. (not finished)
 
 ## Project Structure
 
